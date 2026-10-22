@@ -1,0 +1,58 @@
+[
+  {
+    "id": "strength-training",
+    "title": "Strength Training",
+    "category": "Strength",
+    "tag": "Build strength",
+    "description": "Build a stronger foundation with focused resistance training and progressive practice.",
+    "image": "program-card-1.webp",
+    "imageAlt": "Athlete performing a barbell strength exercise",
+    "cta": "Explore strength training",
+    "details": "Build strength through progressive resistance training, sound technique, and consistent training sessions.",
+    "focus": "Strength and technique",
+    "bestFor": "Beginners and experienced lifters",
+    "approach": "Progressive resistance training"
+  },
+  {
+    "id": "conditioning",
+    "title": "Weight Loss & Conditioning",
+    "category": "Conditioning",
+    "tag": "Move with purpose",
+    "description": "Build stamina and support your goals with structured conditioning sessions.",
+    "image": "program-card-2.webp",
+    "imageAlt": "Athlete training on a conditioning machine",
+    "cta": "Explore conditioning",
+    "details": "Improve stamina and build a sustainable routine with conditioning that supports your personal goals.",
+    "focus": "Stamina and conditioning",
+    "bestFor": "Members improving fitness and endurance",
+    "approach": "Structured conditioning sessions"
+  },
+  {
+    "id": "personal-training",
+    "title": "Personal Training",
+    "category": "Coaching",
+    "tag": "One-to-one coaching",
+    "description": "Get individual guidance, practical feedback, and a plan shaped around your goals.",
+    "image": "program-card-3.webp",
+    "imageAlt": "Coach guiding a member through an exercise",
+    "cta": "Ask about coaching",
+    "details": "Get individual guidance, technique feedback, and a training approach shaped around your goals.",
+    "focus": "Personalized coaching",
+    "bestFor": "People who want focused one-to-one support",
+    "approach": "Coach-guided training"
+  },
+  {
+    "id": "mobility",
+    "title": "Mobility & Flexibility",
+    "category": "Conditioning",
+    "tag": "Move better",
+    "description": "Work on control, mobility, and movement quality to support a balanced routine.",
+    "image": "program-card-4.webp",
+    "imageAlt": "Athlete doing a mobility exercise",
+    "cta": "Explore mobility",
+    "details": "Improve mobility, flexibility, control, and movement quality to support a balanced training routine.",
+    "focus": "Mobility and movement quality",
+    "bestFor": "Members wanting to move more comfortably",
+    "approach": "Controlled mobility practice"
+  }
+]

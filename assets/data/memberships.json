@@ -1,0 +1,47 @@
+[
+  {
+    "id": "basic",
+    "name": "Basic",
+    "label": "Your foundation",
+    "price": "PKR 2,500",
+    "period": "/ month",
+    "description": "A straightforward membership for building a consistent routine.",
+    "featured": false,
+    "features": [
+      "Full gym floor access",
+      "Standard equipment",
+      "Self-guided training"
+    ],
+    "cta": "Ask about Basic"
+  },
+  {
+    "id": "standard",
+    "name": "Standard",
+    "label": "Most popular",
+    "price": "PKR 4,000",
+    "period": "/ month",
+    "description": "Extra structure for members who want more support in their routine.",
+    "featured": true,
+    "features": [
+      "Everything in Basic",
+      "Group session access",
+      "Monthly progress check-in"
+    ],
+    "cta": "Ask about Standard"
+  },
+  {
+    "id": "premium",
+    "name": "Premium",
+    "label": "More support",
+    "price": "PKR 5,000",
+    "period": "/ month",
+    "description": "A higher-support option for members who want a more personal experience.",
+    "featured": false,
+    "features": [
+      "Everything in Standard",
+      "Personal training consultation",
+      "Priority session booking"
+    ],
+    "cta": "Ask about Premium"
+  }
+]

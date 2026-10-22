@@ -1,0 +1,29 @@
+[
+  {
+    "id": "coach-01",
+    "name": "Hamza Qureshi",
+    "specialty": "Strength & Technique",
+    "experience": "9 years coaching",
+    "bio": "Former competitive powerlifter. Builds simple progressive plans and fixes lifting technique before it becomes a problem.",
+    "image": "trainer-card-1.webp",
+    "imageAlt": "Hamza Qureshi, strength and technique coach"
+  },
+  {
+    "id": "coach-02",
+    "name": "Bilal Ahmed",
+    "specialty": "Conditioning",
+    "experience": "7 years coaching",
+    "bio": "Designs conditioning blocks that build stamina without burning you out. Ideal for fat-loss goals and first-time members.",
+    "image": "trainer-card-2.webp",
+    "imageAlt": "Bilal Ahmed, conditioning coach"
+  },
+  {
+    "id": "coach-03",
+    "name": "Sana Malik",
+    "specialty": "Personal Training & Mobility",
+    "experience": "11 years coaching",
+    "bio": "One-to-one coach for members with a clear target, from strength numbers to getting back into training after a break.",
+    "image": "trainer-card-3.webp",
+    "imageAlt": "Sana Malik, personal training and mobility coach"
+  }
+]

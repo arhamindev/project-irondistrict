@@ -1,0 +1,56 @@
+[
+  {
+    "id": "review-01",
+    "name": "Ayesha Khan",
+    "initials": "AK",
+    "rating": 5,
+    "program": "Weight Loss & Conditioning",
+    "since": "Member for 8 months",
+    "quote": "I'd quit three gyms before this one. The conditioning sessions are structured, the coaches remember your name, and I've stayed consistent for eight months."
+  },
+  {
+    "id": "review-02",
+    "name": "Hamza Siddiqui",
+    "initials": "HS",
+    "rating": 5,
+    "program": "Strength Training",
+    "since": "Member for 1 year",
+    "quote": "My squat and deadlift numbers have both gone up since joining, and Coach Hamza fixed form issues I didn't know I had. The free weights area is properly set up."
+  },
+  {
+    "id": "review-03",
+    "name": "Fatima Noor",
+    "initials": "FN",
+    "rating": 5,
+    "program": "Mobility & Flexibility",
+    "since": "Member for 5 months",
+    "quote": "Desk job, stiff back. After a few mobility sessions I move better and I'm no longer dreading the day after leg day. Calm, focused atmosphere."
+  },
+  {
+    "id": "review-04",
+    "name": "Usman Raza",
+    "initials": "UR",
+    "rating": 4,
+    "program": "Standard membership",
+    "since": "Member for 6 months",
+    "quote": "Great value for the group sessions. It can get busy in the evening, so I train late and have the floor almost to myself. AC zone is a big plus in summer."
+  },
+  {
+    "id": "review-05",
+    "name": "Maryam Ali",
+    "initials": "MA",
+    "rating": 5,
+    "program": "Personal Training",
+    "since": "Member for 10 months",
+    "quote": "Sana built a plan around my schedule and actually adjusts it when life gets in the way. The monthly check-ins keep me honest about progress."
+  },
+  {
+    "id": "review-06",
+    "name": "Danish Ahmed",
+    "initials": "DA",
+    "rating": 5,
+    "program": "Premium membership",
+    "since": "Member for 2 years",
+    "quote": "Open until 4 AM is a lifesaver with my shift work. Equipment is well maintained, the staff are friendly, and booking priority sessions is easy over WhatsApp."
+  }
+]
